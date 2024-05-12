@@ -58,7 +58,7 @@ function getexploit()
         (KRNL_LOADED and "Krnl") or
         (IsElectron and "Electron") or
         (Fluxus and "Fluxus") or
-        (Solara and "Solara") or
+        (SolaraAPI and "Solara") or
         ("Unsupported")
   
     return exploit
